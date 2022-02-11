@@ -2,7 +2,7 @@
  * @(#)Battleship.java
  * 
  * IT114105 1A
- * @author acguln
+ * @author Cheung King Hung
  * @version 1.00 2019/11/12
  */
 
